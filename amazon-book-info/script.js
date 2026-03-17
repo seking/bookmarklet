@@ -95,6 +95,7 @@ const formattedDate = date.toISOString().replace('T', ' ').slice(0, 19);
  cover: ${imageurl}
  created: ${formattedDate}
  updated: ${formattedDate}
+ icon: LiBook
  ---
  
  ${link}
